@@ -12,4 +12,8 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/97f32762-6c83-4ae3-8344-bb7375875327.jpg
 name: rohitbhelkar
+navigation:
+  - name: g
+    id: 5a1550b1-81de-49e2-adc4-af830e2299b4
+    type: content
 content: []
